@@ -1,5 +1,5 @@
-#Personal Blog / Portfolio Site
-##Goals
+# Personal Blog / Portfolio Site
+## Goals
 Multi-Page Website With:
 1. Header on each page
 2. Home Page
