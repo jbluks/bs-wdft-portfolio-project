@@ -1,4 +1,9 @@
 # Personal Blog / Portfolio Site
+
+Instructions for building a Personal Blog/Portfolio in a step-by-step process. Each Part incrementally builds on the last part. 
+
+When one part is complete, you can copy the contents of the previous part as the starter for the next part. 
+
 ## Goals
 Multi-Page Website With:
 1. Header on each page
