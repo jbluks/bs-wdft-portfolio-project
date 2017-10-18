@@ -19,3 +19,11 @@ Multi-Page Website With:
 11. Contact Page
 12. Footer on Each Page
 13. The ability to login (single owner/password protected site)
+
+## Examples for Inspiration
+
+* [http://www.emilyridge.ie/](http://www.emilyridge.ie/)
+* [https://ianlunn.co.uk/](https://ianlunn.co.uk/)
+* [https://timmyomahony.com/](https://timmyomahony.com/)
+* [http://benadam.me/](http://benadam.me/)
+* [http://sebkay.com/](http://sebkay.com/)
