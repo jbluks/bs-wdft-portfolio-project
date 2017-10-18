@@ -2,7 +2,9 @@
 
 Instructions for building a Personal Blog/Portfolio in a step-by-step process. Each Part incrementally builds on the last part. 
 
-When one part is complete, you can copy the contents of the previous part as the starter for the next part. 
+When one part is complete, you can copy the contents of the previous part as the starter for the next part, or if you want you can build everything in one folder called final project.
+
+If you can build out this project, you will have a strong understanding of the fundamental skills needed to build web sites with static and dynamic content.
 
 ## Goals
 Multi-Page Website With:
@@ -19,6 +21,20 @@ Multi-Page Website With:
 11. Contact Page
 12. Footer on Each Page
 13. The ability to login (single owner/password protected site)
+
+## Skills you will use to complete this project
+
+Client-side:
+   * HTML/CSS/Javascript 
+   * jQuery
+   * Bootstrap
+   
+Server-side:
+   * Node
+   * Express
+   * EJS
+   * Authentication/Bcrypt
+   * Database: Mongo or PostGres
 
 ## Examples for Inspiration
 
